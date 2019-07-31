@@ -5,3 +5,11 @@ if you want to help me ,you can join our project
 
 # 加入条件 join condition
 
+有 “梦想” 就要 “行动”
+ 
+
+创新创业孵化器
+
+追逐你的梦，带着你的创意，我们帮你实现
+
+“ 只有你想不到，没有我们做不到，对梦想的追求永不止步 ”
