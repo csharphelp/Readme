@@ -1,15 +1,33 @@
-# 谢谢你的关注 thank you join our project
+## 谢谢你的关注
 
-if you want to help me ,you can join our project 
-如果你感觉有帮助，可以加入本项目组
+如果你感觉有帮助，可以加入本项目组，加入条件是Github活跃度。
 
-# 加入条件 join condition
 
-有 “梦想” 就要 “行动”
+
+
+
+## 一、项目介绍
+
+
+
+### 1.1 支付类
+
+#### 1.1.1支付宝支付
+
+- [AopSdk.Core](https://github.com/dotnetcore/Alipay.AopSdk.Core)  
+- 相关例子代码及其说明文件
+
+#### 1.1.2微信支付
+
  
 
-创新创业孵化器
 
-追逐你的梦，带着你的创意，我们帮你实现
 
-“ 只有你想不到，没有我们做不到，对梦想的追求永不止步 ”
+
+
+
+
+
+
+
+
